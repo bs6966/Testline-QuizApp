@@ -12,6 +12,15 @@ This is a dynamic and interactive quiz application built using Next.js. It allow
 - **Next.js**: For server-side rendering and building the UI.
 - **React**: For managing state and handling interactive components.
 - **Tailwind CSS**: For responsive and beautiful styling.
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/7e74a019-a45b-49a1-bde8-2ee20d65c4bf)
+
+![image](https://github.com/user-attachments/assets/4d93c809-1e39-43e0-9dd1-13a41a194293)
+
+![image](https://github.com/user-attachments/assets/67e3be09-e8c0-4594-9bcb-1219180e10ab)
+
   
 ## Installation
 
