@@ -15,11 +15,14 @@ This is a dynamic and interactive quiz application built using Next.js. It allow
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/7e74a019-a45b-49a1-bde8-2ee20d65c4bf)
+![image](https://github.com/user-attachments/assets/19e6133e-b6ea-44d7-bb2e-95f0f49fd8ad)
 
-![image](https://github.com/user-attachments/assets/4d93c809-1e39-43e0-9dd1-13a41a194293)
+![image](https://github.com/user-attachments/assets/c9eff1c8-373b-411a-93bc-ebe649bd7dfb)
 
-![image](https://github.com/user-attachments/assets/67e3be09-e8c0-4594-9bcb-1219180e10ab)
+**Result Screen**
+
+![image](https://github.com/user-attachments/assets/9551bab7-6746-41ba-8221-f03c297357c8)
+
 
   
 ## Installation
