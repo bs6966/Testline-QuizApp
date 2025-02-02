@@ -1,3 +1,29 @@
+# Genetics and Evolution Quiz
+
+This is a dynamic and interactive quiz application built using Next.js. It allows users to test their knowledge of genetics and evolution by answering a series of questions related to DNA replication, transcription, and evolutionary concepts.
+
+## Features
+- **Interactive Quiz**: Multiple-choice questions with feedback after each answer.
+- **Dynamic Scoring**: Users receive points for correct answers and lose points for incorrect answers.
+- **Progress Tracker**: Displays progress with completion percentage and question count.
+- **Final Score**: At the end of the quiz, users can see their total score, accuracy, and a breakdown of correct and wrong answers.
+
+## Technologies Used
+- **Next.js**: For server-side rendering and building the UI.
+- **React**: For managing state and handling interactive components.
+- **Tailwind CSS**: For responsive and beautiful styling.
+  
+## Installation
+
+### Prerequisites
+- Node.js (v14 or above recommended)
+- npm or yarn
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone <repo-url>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
